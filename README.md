@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @daniel-n-dev
-- 👀 I’m interested in creating, building things and gaming.
-- 🌱 I’m currently learning Frontend web developing
+- 👋 Hi, I’m Daniel!
+- 👀 I’m interested in creating and building things.
+- 🌱 I’m currently learning Front-end web developing
 
 <!---
 daniel-n-dev/daniel-n-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
